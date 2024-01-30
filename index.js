@@ -216,8 +216,8 @@ if ("aeiouyæøå".includes(bokstav)) {
 */
 
 //Oppgave 16
-
-let farge = prompt("Skriv inn fargen (red, blue, green, yellow, purple, white (with black backgroun)):");
+/*
+let farge = prompt("Skriv inn fargen (red, blue, green, yellow, purple eller white):");
 
 
 switch (farge.toLowerCase()) {
@@ -242,3 +242,4 @@ switch (farge.toLowerCase()) {
     default:
         document.write(`<p>Ugyldig fargevalg.</p>`);
 }
+*/
